@@ -1,2 +1,11 @@
 #!/bin/bash
+<<<<<<< HEAD
 cd 
+=======
+<<<<<<< HEAD
+ cd 
+
+=======
+cd
+>>>>>>> d84929b869e2f79fd63fd8ec9b47f269427680b7
+>>>>>>> fbc4dccefc7b7322a0a8897530c8beffb67fab29
